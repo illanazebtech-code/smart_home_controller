@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 Smart Home Controller
 
 A professional Flutter + MQTT smart home controller app with a luxury dark UI.
@@ -72,3 +73,7 @@ google_fonts: ^6.2.1
 flutter_animate: ^4.5.0
 gap: ^3.0.1
 ```
+=======
+# smart_home_controller
+Flutter + MQTT Smart Home Controller App
+>>>>>>> 9695cb8350ecaedf285e5ce656273d9d9a17a70c
